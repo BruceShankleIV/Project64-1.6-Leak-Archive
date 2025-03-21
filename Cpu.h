@@ -23,13 +23,13 @@
  * should be forwarded to them so if they want them.
  *
  */
-#include "InterpreterCPU.h"
-#include "InterpreterOps.h"
-#include "RecompilerCPU.h"
+#include "Interpreter CPU.h"
+#include "Interpreter Ops.h"
+#include "Recompiler CPU.h"
 #include "registers.h"
-#include "RecompilerOps.h"
+#include "Recompiler Ops.h"
 #include "tlb.h"
-#include "SyncCPU.h"
+#include "Sync CPU.h"
 #include "memory.h"
 #include "DMA.h"
 #include "eeprom.h"
